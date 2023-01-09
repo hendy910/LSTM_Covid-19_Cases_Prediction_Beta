@@ -22,9 +22,13 @@ Hello and thank you for looking through the model compiled by me in order to to 
 
 
 
+### Model Performance
+![Performance_Model](https://user-images.githubusercontent.com/120707004/211274239-083bc48e-aadf-4338-8648-69af6ad7cbfc.jpg)
+
+
 
 ### Graph of the Predicted vs Actual Data
-![Model_Deployment](https://user-images.githubusercontent.com/120707004/211264414-f2cd2c47-3aea-4546-9992-25019c57eb78.png)
+![Model_Deployment](https://user-images.githubusercontent.com/120707004/211274130-1c8bffd1-fed9-432a-b4ee-c3b463d1fdcc.png)
 
 
 ### Source = 
